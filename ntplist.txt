@@ -1,0 +1,1 @@
+Aqui pon la ip del server ntp
