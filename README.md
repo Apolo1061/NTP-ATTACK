@@ -1,4 +1,5 @@
 # NTP-ATTACK
+<img src="https://img.shields.io/badge/Python-3.8-blue"> <img src="https://img.shields.io/badge/Version-1-red"> <img src="https://img.shields.io/badge/Descarga-Gratis-green"></a>
 <img src="/NTP-ATTACKlogo.png"></img>
 ## FOTO
 
