@@ -1,5 +1,5 @@
 # NTP-ATTACK
-<img src="/NTP-ATTACKlogo"></img>
+<img src="/NTP-ATTACKlogo.png"></img>
 ## FOTO
 
 <img src="/Imagencompleta.png"></img>
